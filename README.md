@@ -23,7 +23,7 @@ Você pode realizar buscas especificando os anos referentes às seguintes ediç�
 * 🇧🇷 **Brasil** *(Ex: 2014)*
 * 🇷🇺 **Rússia** *(Ex: 2018)*
 * 🇶🇦 **Qatar** *(Ex: 2022)*
-* 🇺🇸 **EUA** *(Ex: 1994 / 2026)*
+* 🇺🇸 **EUA** *(Ex: 2026)*
 
 ---
 
