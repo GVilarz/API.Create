@@ -1,0 +1,6 @@
+{
+    "brasil":    ["brasil/1.jpg", "brasil/2.jpg"],
+    "eua":      ["eua/1.jpg", "eua/2.jpg"],
+    "qatar":   ["qatar/1.jpg", "qatar/2.jpg"],
+    "russia": ["russia/1.jpg", "russia/2.jpg"]
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscando Bolas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Bolas Da Copa!</h1>
+        <p class="subtitle">Consumindo nossa própria API em Node.js</p>
+
+        <div class="ball-area">
+            <img src="" alt="bolas" id="ballImage">
+            <div id="ballName"></div>
+        </div>
+
+        <div class="controls">
+            <button id="randomBtn">🎲 Bola Aleatória</button>
+        </div>
+
+        <div class="search">
+            <input
+                type="text"
+                id="nearInput"
+                placeholder="Digite um pais que sediou a copa (ex: Qatar, Brasil)"
+            >
+            <button id="searchBtn">🔍 Buscar</button>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
