@@ -10,9 +10,20 @@ Este projeto consiste em uma interface Front-End construída com **HTML, CSS e J
 
 **Funcionalidades Principais:**
 - 🎲 **Busca Aleatória:** Carrega uma bola de futebol sorteada aleatoriamente ao clicar na imagem ou no botão dedicado.
-- 🔎 **Busca por Ano:** Permite ao usuário digitar o ano/edição no campo de busca para exibir a bola correspondente.
+- 🔎 **Busca por Ano/Edição:** Permite ao usuário digitar o ano no campo de busca para exibir a bola correspondente.
 - ⚠️ **Tratamento de Erros:** Exibe mensagens amigáveis na tela caso uma edição não seja encontrada ou se o servidor estiver offline.
 - ⏳ **Feedback Visual:** Animação de carregamento enquanto as requisições HTTP são processadas.
+
+---
+
+## 🏆 Categorias / Edições Disponíveis
+
+Você pode realizar buscas especificando os anos referentes às seguintes edições:
+
+* 🇧🇷 **Brasil** *(Ex: 2014)*
+* 🇷🇺 **Rússia** *(Ex: 2018)*
+* 🇶🇦 **Qatar** *(Ex: 2022)*
+* 🇺🇸 **EUA** *(Ex: 1994 / 2026)*
 
 ---
 
@@ -46,7 +57,7 @@ Este projeto consiste em uma interface Front-End construída com **HTML, CSS e J
 
 - **Front-End:** HTML5, CSS3, JavaScript (ES6+ / Async/Await / Fetch API)
 - **Back-End:** Node.js, Express
-- **API:** Rest API local servindo arquivos estáticos e respostas JSON
+- **API:** REST API local servindo arquivos estáticos e respostas JSON
 
 ---
 
@@ -54,5 +65,14 @@ Este projeto consiste em uma interface Front-End construída com **HTML, CSS e J
 
 ### Pré-requisitos
 Antes de começar, você precisará ter instalado em sua máquina:
-- [Node.js](https://nodejs.org/) (versão 14 ou superior)
+- [Node.js](https://nodejs.org/)
 - Um navegador web moderno (Chrome, Edge, Firefox, etc.)
+
+<div align="center">
+
+---
+
+ Desenvolvido por **Gabriel Vilar**  
+ 🎓 `DSI1-SESI`
+
+</div>
